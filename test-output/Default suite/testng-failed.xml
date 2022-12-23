@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.excelr.module3.Assignment3">
+        <methods>
+          <include name="tearDown"/>
+          <include name="clickPracticeForms"/>
+          <include name="setUp"/>
+          <include name="FillForm"/>
+          <include name="clickForms"/>
+        </methods>
+      </class> <!-- com.excelr.module3.Assignment3 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
