@@ -51,6 +51,8 @@ By submit = By.xpath("//input[@type='submit']");
 		}
 	}
 	
+	//Hi this is selenium
+	
 	public void retrieveTechnologies() {
 		//Technologies
 		
